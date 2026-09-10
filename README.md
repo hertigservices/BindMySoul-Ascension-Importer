@@ -1,3 +1,16 @@
+# Moved to Ascension Preservation
+
+The maintained importer is now at
+[Ascension_preservation/tools/character-importer](https://github.com/hertigservices/Ascension_preservation/tree/main/tools/character-importer).
+Its package name (`bindmysoul-importer`), `bms-import` command, standalone usage,
+license and author history are retained. See the
+[unified setup guide](https://github.com/hertigservices/Ascension_preservation/blob/main/docs/SETUP.md).
+
+This repository is archived as a historical reference. Please open new issues and
+changes in Ascension_preservation. The original README follows for old releases.
+
+---
+
 # Bind My Soul — offline character importer
 
 Rebuild a [Bind My Soul](https://bindmysoul.com) character on your own
